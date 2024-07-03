@@ -27,7 +27,9 @@ const BannerData={
   title3: "Winter Sales",
   title4: "Loren Ipsum, dolor sit amet consectur adipising elit. Eaque, reiciendis.",
   bgColor: "primary",
-git  discount: "30% OFF",
+}
+const BannerData2={
+  discount: "30% OFF",
   title: "Happy Hours",
   date: "14 Jan to 28 Jan",
   image: smartwatch2,
